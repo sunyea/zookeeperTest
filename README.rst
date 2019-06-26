@@ -10,15 +10,15 @@ zookeeperTest
     执行程序
 + conf
     配置文件
++ log
+    日志文件目录
 + src
-    - app
-        应用逻辑
     - utility
         通用工具
-    - other
-        其他包
-    - main.py
-        主程序
+    - zk
+        zookeeper相关
+    - zookeeperTest.py
+        主程序入口
 + setup.py
     安装部署
 + README.rst

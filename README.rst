@@ -2,7 +2,7 @@ zookeeperTest
 ^^^^^^^^^^^^^
 ::
 
-    这是一个zookeeper的python测试程序
+    这是一个zookeeper的python测试程序，用于测试主从模式的实现
 
 目录结构
 -------

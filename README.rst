@@ -12,13 +12,12 @@ zookeeperTest
     配置文件
 + log
     日志文件目录
-+ src
-    - utility
-        通用工具
-    - zk
-        zookeeper相关
-    - zookeeperTest.py
-        主程序入口
++  utility
+    通用工具
++ zk
+    zookeeper相关
++ zookeeperTest.py
+    主程序入口
 + setup.py
     安装部署
 + README.rst
